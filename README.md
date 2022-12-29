@@ -1,8 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/BANNER.svg?alt=media&token=cfc02320-2020-4dd6-ba37-9345105e7f2a)](#)
 <h1 align="center"> Hi ! <img width="4%" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Moh Most</h1> 
 
-Frontend Dev
-------------
+<h2 align="center">Frontend Dev<h2/>
 
 I'm a front-end web developer with having one year of experience.
 <img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20"><br/>
