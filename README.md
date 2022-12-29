@@ -6,12 +6,12 @@ Frontend Dev
 
 I'm a front-end web developer with having one year of experience.
 <img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20">
-* 🌍  I'm based in Tizi-Ouzou, Algeria
-* 🖥️  See my portfolio at [My Website](#)
-* ✉️  You can contact me at [mohmost32@gmail.com](mailto:mohmost32@gmail.com)
-* 🚀  I'm currently working on [PokeDex](http://pokedex-3of.pages.dev)
-* 🧠  I'm learning PHP, MySQL, NodeJS
-* 🤝  I'm open to collaborating on Anything JavaScript, PHP
+* 🌍  I'm based in **Tizi-Ouzou, Algeria**
+* 🖥️  See my portfolio at [**My Website**](#)
+* ✉️  You can contact me at [**mohmost32@gmail.com**](mailto:mohmost32@gmail.com)
+* 🚀  I'm currently working on [**PokeDex**](http://pokedex-3of.pages.dev)
+* 🧠  I'm learning **PHP, MySQL, NodeJS**
+* 🤝  I'm open to collaborating on **Anything JavaScript, PHP**
 
 <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
