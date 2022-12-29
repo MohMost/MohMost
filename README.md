@@ -5,7 +5,7 @@ Frontend Dev
 ------------
 
 I'm a front-end web developer with having one year of experience.
-<img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20"><br/>
+<img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fanimation%20code.gif?alt=media&token=0bf642cd-e4d5-46fc-984f-0af5571139c7"><br/>
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fearth-africa-solid.svg?alt=media&token=3eaeb7bd-150c-4190-8a58-c32cf5d3239f" width="1.5%">  I'm based in **Tizi-Ouzou, Algeria**
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdesktop-solid.svg?alt=media&token=ca9eb16b-201d-4ea6-93b3-c6d1899c9299" width="1.7%">  See my portfolio at [**My Website**](#)
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fenvelope-solid.svg?alt=media&token=74e525b1-1a4c-4196-be50-1ad77efdb84a" width="1.7%">  You can contact me at [**mohmost32@gmail.com**](mailto:mohmost32@gmail.com)
