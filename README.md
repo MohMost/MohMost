@@ -5,13 +5,13 @@ Frontend Dev
 ------------
 
 I'm a front-end web developer with having one year of experience.
-<img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20">
-* 🌍  I'm based in **Tizi-Ouzou, Algeria**
-* 🖥️  See my portfolio at [**My Website**](#)
-* ✉️  You can contact me at [**mohmost32@gmail.com**](mailto:mohmost32@gmail.com)
-* 🚀  I'm currently working on [**PokeDex**](http://pokedex-3of.pages.dev)
-* 🧠  I'm learning **PHP, MySQL, NodeJS**
-* 🤝  I'm open to collaborating on **Anything JavaScript, PHP**
+<img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20"><br/>
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fearth-africa-solid.svg?alt=media&token=3eaeb7bd-150c-4190-8a58-c32cf5d3239f" width="1.5%">  I'm based in **Tizi-Ouzou, Algeria**
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdesktop-solid.svg?alt=media&token=ca9eb16b-201d-4ea6-93b3-c6d1899c9299" width="1.5%">  See my portfolio at [**My Website**](#)
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fenvelope-solid.svg?alt=media&token=74e525b1-1a4c-4196-be50-1ad77efdb84a" width="1.5%">  You can contact me at [**mohmost32@gmail.com**](mailto:mohmost32@gmail.com)
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Frocket-solid.svg?alt=media&token=6d548553-b198-43fb-a2a8-e7754cb4b184" width="1.5%">  I'm currently working on [**PokeDex**](http://pokedex-3of.pages.dev)
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fbrain-solid.svg?alt=media&token=394d93f6-21bd-48fb-92b9-6730145fd2e8" width="1.5%">  I'm learning **PHP, MySQL, NodeJS**
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhandshake-simple-solid.svg?alt=media&token=50a8b8d7-0fa1-4634-a6c6-70dc5de915ad" width="1.5%">  I'm open to collaborating on **Anything JavaScript, PHP**
 
 <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/635805485483819018" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdiscord.svg?alt=media&token=9faadbf4-7f52-496c-8746-5049fe732a28" width="32" height="32" /></a> <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/github-dark.svg?alt=media&token=cd82ef77-a04f-4469-a7b4-0c00e17a74b3" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/635805485483819018" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdiscord.svg?alt=media&token=9faadbf4-7f52-496c-8746-5049fe732a28" width="32" height="32" /></a> <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fgithub-dark.svg?alt=media&token=5202281d-7fec-4fa1-95c7-724c24fcf390" width="32" height="32" /></a></p>
 
 ### Badges
 <b>Top Repositories</b>
