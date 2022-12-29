@@ -11,7 +11,7 @@ I'm a front-end web developer with having one year of experience.
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fenvelope-solid.svg?alt=media&token=74e525b1-1a4c-4196-be50-1ad77efdb84a" width="1.7%">  You can contact me at [**mohmost32@gmail.com**](mailto:mohmost32@gmail.com)
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Frocket-solid.svg?alt=media&token=6d548553-b198-43fb-a2a8-e7754cb4b184" width="1.7%">  I'm currently working on [**PokeDex**](http://pokedex-3of.pages.dev)
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fbrain-solid.svg?alt=media&token=394d93f6-21bd-48fb-92b9-6730145fd2e8" width="1.7%">  I'm learning **PHP, MySQL, NodeJS**
-* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhandshake-simple-solid.svg?alt=media&token=50a8b8d7-0fa1-4634-a6c6-70dc5de915ad" width="1.5%">  I'm open to collaborating on **Anything JavaScript, PHP**
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhandshake-simple-solid.svg?alt=media&token=50a8b8d7-0fa1-4634-a6c6-70dc5de915ad" width="1.7%">  I'm open to collaborating on **Anything JavaScript, PHP**
 
 <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
