@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/mo.jpg?alt=media&token=9a77ea59-1635-4df1-b645-7368cf2b7e92)](http://touche-feminine.pages.dev/)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/BANNER.svg?alt=media&token=cfc02320-2020-4dd6-ba37-9345105e7f2a)](http://touche-feminine.pages.dev/)
 <h1 align="center"> Hi ! <img width="4%" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Moh Most</h1> 
 
 Frontend Dev
@@ -20,21 +20,21 @@ src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-b
 
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/imgbin_source-to-source-compiler-javascript-ecmascript-node-js-png.png?alt=media&token=828291af-54e0-4ce4-8d8c-641067b16ca3" width="36" height="36" alt="Babel" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/photoshop-colored.svg?alt=media&token=c5905df0-aa3f-4f7e-b2ca-3e537971770b" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/php-colored.svg?alt=media&token=dee5dfa8-9cf3-46d1-9419-4ef0791a0d7a" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/javascript-colored.svg?alt=media&token=558532af-92f5-4ba4-be48-f1e2b0c279fe" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/imgbin_source-to-source-compiler-javascript-ecmascript-node-js-png.png?alt=media&token=64479090-5375-4d64-b737-2f3036f53977" width="36" height="36" alt="Babel" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/css3-colored.svg?alt=media&token=00481804-ad66-43b6-9eb6-f9355eba41cb" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhtml5-colored.svg?alt=media&token=c75c8fd0-e626-4d19-b3cd-8a1736058a20" width="36" height="36" alt="HTML5" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fnodejs-colored.svg?alt=media&token=dc3ab63b-acb5-4319-b35f-4587a5d6ef6a" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fmysql-colored.svg?alt=media&token=df1a4107-ac09-44bc-a64c-abe1f6bb698b" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Ffigma-colored.svg?alt=media&token=719fc72a-9886-4b70-8a33-a52f6a968b1c" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fphotoshop-colored-dark.svg?alt=media&token=a6bd336d-13b5-407b-8f6e-5a04c30eeb0e" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/635805485483819018" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/github-dark.svg?alt=media&token=cd82ef77-a04f-4469-a7b4-0c00e17a74b3" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/635805485483819018" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdiscord.svg?alt=media&token=9faadbf4-7f52-496c-8746-5049fe732a28" width="32" height="32" /></a> <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/github-dark.svg?alt=media&token=cd82ef77-a04f-4469-a7b4-0c00e17a74b3" width="32" height="32" /></a></p>
 
 ### Badges
 <b>Top Repositories</b>
