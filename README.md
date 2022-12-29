@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/635805485483819018" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdiscord.svg?alt=media&token=9faadbf4-7f52-496c-8746-5049fe732a28" width="32" height="32" /></a> <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fgithub-dark.svg?alt=media&token=5202281d-7fec-4fa1-95c7-724c24fcf390" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/635805485483819018" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdiscord.svg?alt=media&token=9faadbf4-7f52-496c-8746-5049fe732a28" width="32" height="32" /></a> <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fgithub-dark.svg?alt=media&token=5202281d-7fec-4fa1-95c7-724c24fcf390" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/moh-most-210923192/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Flinkedin.svg?alt=media&token=d5a27c21-a6d0-452e-852a-700a34a64d12" width="32" height="32" /></a></p>
 
 ### Badges
 <b>Top Repositories</b>
