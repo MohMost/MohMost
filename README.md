@@ -1,3 +1,4 @@
+<div style="background: #0d1117">
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/BANNER.svg?alt=media&token=cfc02320-2020-4dd6-ba37-9345105e7f2a)](#)
 <h1 align="center"> Hi ! <img width="4%" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Moh Most</h1> 
 
@@ -53,3 +54,4 @@ src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-b
 <a href="https://github.com/MohMost" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohMost&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br />
 
+</div>
