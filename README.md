@@ -11,7 +11,7 @@ I'm a fullstack web developer with one year of experience
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fearth-africa-solid.svg?alt=media&token=3eaeb7bd-150c-4190-8a58-c32cf5d3239f" width="1.9%">  I'm based in **Tizi-Ouzou, Algeria**
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdesktop-solid.svg?alt=media&token=ca9eb16b-201d-4ea6-93b3-c6d1899c9299" width="1.9%">  See my portfolio at [**My Website**](#)
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fenvelope-solid.svg?alt=media&token=74e525b1-1a4c-4196-be50-1ad77efdb84a" width="1.9%">  You can contact me at [**mohmost32@gmail.com**](mailto:mohmost32@gmail.com)
-* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Frocket-solid.svg?alt=media&token=6d548553-b198-43fb-a2a8-e7754cb4b184" width="1.9%">  I'm currently working on [**Ai Yu-Gi-Oh bot**](http://pokedex-3of.pages.dev)
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Frocket-solid.svg?alt=media&token=6d548553-b198-43fb-a2a8-e7754cb4b184" width="1.9%">  I'm currently working at [**Vanity Corp**](https://vanitycorp.fr/)
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fbrain-solid.svg?alt=media&token=394d93f6-21bd-48fb-92b9-6730145fd2e8" width="1.9%">  I'm learning **PHP, MySQL, NodeJS**
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhandshake-simple-solid.svg?alt=media&token=50a8b8d7-0fa1-4634-a6c6-70dc5de915ad" width="1.9%">  I'm open to collaborating on **Anything JavaScript, PHP**
 
