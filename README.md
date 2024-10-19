@@ -3,10 +3,9 @@
 <div style="background: #0d1117">
 <h1 align="center"> Hi ! <img width="4%" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Moh Most</h1> 
 
-Fullstack
+Fullstack web developer
 ------------
 
-I'm a fullstack web developer with one year of experience
 <img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fanimation%20code.gif?alt=media&token=0bf642cd-e4d5-46fc-984f-0af5571139c7"><br/>
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fearth-africa-solid.svg?alt=media&token=3eaeb7bd-150c-4190-8a58-c32cf5d3239f" width="1.9%">  I'm based in **Tizi-Ouzou, Algeria**
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdesktop-solid.svg?alt=media&token=ca9eb16b-201d-4ea6-93b3-c6d1899c9299" width="1.9%">  See my portfolio at [**My Website**](#)
