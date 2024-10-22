@@ -11,8 +11,8 @@ Fullstack web developer
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fdesktop-solid.svg?alt=media&token=ca9eb16b-201d-4ea6-93b3-c6d1899c9299" width="1.9%">  See my portfolio at [**My Website**](https://mostefaimohamed.vercel.app/)
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fenvelope-solid.svg?alt=media&token=74e525b1-1a4c-4196-be50-1ad77efdb84a" width="1.9%">  You can contact me at [**mohmost32@gmail.com**](mailto:mohmost32@gmail.com)
 * <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Frocket-solid.svg?alt=media&token=6d548553-b198-43fb-a2a8-e7754cb4b184" width="1.9%">  I'm currently working at [**Vanity Corp**](https://vanitycorp.fr/)
-* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fbrain-solid.svg?alt=media&token=394d93f6-21bd-48fb-92b9-6730145fd2e8" width="1.9%">  I'm learning **PHP, MySQL, NodeJS**
-* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhandshake-simple-solid.svg?alt=media&token=50a8b8d7-0fa1-4634-a6c6-70dc5de915ad" width="1.9%">  I'm open to collaborating on **Anything JavaScript, PHP**
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fbrain-solid.svg?alt=media&token=394d93f6-21bd-48fb-92b9-6730145fd2e8" width="1.9%">  I'm learning **Python**
+* <img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhandshake-simple-solid.svg?alt=media&token=50a8b8d7-0fa1-4634-a6c6-70dc5de915ad" width="1.9%">  I'm open to collaborating on **Anything JavaScript, react, PHP**
 
 <a href="https://www.github.com/MohMost" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
