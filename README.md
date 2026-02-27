@@ -21,10 +21,9 @@ src="https://img.shields.io/github/followers/MohMost?logo=github&style=for-the-b
 
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/php-colored.svg?alt=media&token=dee5dfa8-9cf3-46d1-9419-4ef0791a0d7a" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/javascript-colored.svg?alt=media&token=558532af-92f5-4ba4-be48-f1e2b0c279fe" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://fr.react.dev/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/lbFMHtu.png" width="36" height="36" alt="React" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/imgbin_source-to-source-compiler-javascript-ecmascript-node-js-png.png?alt=media&token=64479090-5375-4d64-b737-2f3036f53977" width="36" height="36" alt="Babel" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/php-colored.svg?alt=media&token=dee5dfa8-9cf3-46d1-9419-4ef0791a0d7a" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/css3-colored.svg?alt=media&token=00481804-ad66-43b6-9eb6-f9355eba41cb" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fhtml5-colored.svg?alt=media&token=c75c8fd0-e626-4d19-b3cd-8a1736058a20" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fnodejs-colored.svg?alt=media&token=dc3ab63b-acb5-4319-b35f-4587a5d6ef6a" width="36" height="36" alt="NodeJS" /></a>
